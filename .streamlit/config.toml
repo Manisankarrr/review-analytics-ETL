@@ -1,0 +1,12 @@
+[theme]
+base = "dark"
+primaryColor     = "#6366f1"   # indigo-500 — accent / interactive elements
+backgroundColor  = "#0f172a"   # slate-900 — main content background
+secondaryBackgroundColor = "#1e293b"  # slate-800 — sidebar & card surfaces
+textColor        = "#e2e8f0"   # slate-200 — primary body text
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
